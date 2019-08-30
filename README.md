@@ -33,8 +33,8 @@ MultiRename
 至于 windows 下如何打开命令行模式， winows键 + R键，输入 'cmd' 即可。
 
 ```shell
-$ git clone git@github.com:guzdy/lofter_crawler.git
-$ cd lofter-crawler
+$ git clone git@github.com:guzdy/MultiRename.git
+$ cd MultiRename
 $ python setup.py install
 ```
 
