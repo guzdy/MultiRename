@@ -14,9 +14,9 @@ setup(
             'mtrn = src.multiRename:menu1'
         ]
     },
-    install_requires={
-        'Pillow'
-    },
+    install_requires=[
+        'Pillow',
+    ],
     license='MIT',
     author='guzdy',
     author_email='guz.jin@gmail.com',
