@@ -37,7 +37,11 @@ $ git clone git@github.com:guzdy/MultiRename.git
 $ cd MultiRename
 $ python setup.py install
 ```
+如果安装过程中 Pillow 安装出现问题，则手动安装 Pillow，然后再安装 "setup.py" 文件即可。
 
+```shell
+$ pip install Pillow
+```
 
 主要功能
 -------
