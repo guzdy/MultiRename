@@ -15,7 +15,7 @@ setup(
         ]
     },
     install_requires=[
-        'Pillow',
+        'pillow',
     ],
     license='MIT',
     author='guzdy',
